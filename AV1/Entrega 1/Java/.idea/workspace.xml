@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92f2c38d-c2bd-4d71-ad8e-aeaf11db7b56" name="Changes" comment="A lot of files from replit">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.breakpoints" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.core.runtime/.manager/.fileTableLock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.fileTableLock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp10277543646985061658.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp10448970570863515722.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp10636325036103932756.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp10750331943353078193.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp10942507380564107017.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp11710788145236431441.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp13588335419286963199.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp1397591127925323288.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp14609545787920291414.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp15221148702728753216.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp15774056423820638374.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp15916431283888454786.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp16231131492435962124.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp16452389704470681301.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp16936579387194323071.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp17458826975727935948.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp2161613694874222118.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp2481219908173142282.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp3088566611807672248.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp3433128325139901433.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp4395040712551362249.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp490771840599013197.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp4958980752263872622.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp5423612656967452757.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp5676205662240291426.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp5849858808124491954.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp5919581258506812985.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp6995916641779070108.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp7154946766495602978.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp7600826484308633348.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp8001838409270650751.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp8365766024865877414.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.app/.manager/.tmp8605765711023106290.instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.equinox.launcher/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.2.400.v20211117-0650/eclipse_11600.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.osgi/.manager/.fileTable.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.osgi/.manager/.fileTable.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.osgi/.manager/.fileTableLock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.osgi/framework.info.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/config/org.eclipse.osgi/framework.info17010042411095090859.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.history/15/90139122667a001e134ecc8129e961bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/jdt.ls-java-project/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/jdt.ls-java-project/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.resources/0.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/3842426239.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/63098532.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/63098532.index.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.jdt.ls.core/.file-digests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/jdt.ls-java-project/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/jdt.ls-java-project/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/jdt-language-server/data/home/runner/Java/jdt.ls-java-project/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/nix/binary-cache-v6.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/nix/binary-cache-v6.sqlite-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/__replit_disk_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/env/latest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/env/latest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/modules.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/modules/replit.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/replit/nix/env.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/tooling/gradle/versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.replit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.upm/store.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replit.nix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replit_zip_error_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenFib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GenFib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TotalSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dependency/springboot-5.3.6.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/calcFact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/calcFact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/calcSeno.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/calcSeno.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/charNum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/charNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/decBin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/decBin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/invNum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/invNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/varSwitch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/exercises/varSwitch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/counter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/genFib.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/genFib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/mdc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/mdc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/primeCheck.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/primeCheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/totalSum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/firstDeploy/totalSum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AmbientesDeDev.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lioneriod&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Lioneriod/AmbientesDeDev.git&quot;,
+    &quot;accountId&quot;: &quot;5ff4f426-a473-4a9d-9e99-2f157d9dd23f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2m8DgypBU9dQiXDnjYSy6guoc1f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lione/Downloads/_repos/AmbientesDeDev",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f2c38d-c2bd-4d71-ad8e-aeaf11db7b56" name="Changes" comment="" />
+      <created>1726449424511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726449424511</updated>
+    </task>
+    <task id="LOCAL-00001" summary="A lot of files from replit">
+      <option name="closed" value="true" />
+      <created>1726449783101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726449783101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A lot of files from replit" />
+    <option name="LAST_COMMIT_MESSAGE" value="A lot of files from replit" />
+  </component>
+</project>
